@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ait8zp4hh1ty2umleto5ancen&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ait8zp4hh1ty2umleto5ancen&cover_image=false&theme=default&show_offline=false&background_color=0d1217&interchange=true)](https://github.com/kittinan/spotify-github-profile)
