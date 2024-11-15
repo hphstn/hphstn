@@ -4,4 +4,6 @@
 
 ![](https://yokai.crd.co/assets/images/gallery01/1ba0ce99.gif?v=b4df531c) boyfailure
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ait8zp4hh1ty2umleto5ancen&cover_image=false&theme=default&show_offline=false&background_color=0d1217&interchange=true)](https://github.com/kittinan/spotify-github-profile)
